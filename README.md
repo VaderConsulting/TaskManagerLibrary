@@ -15,6 +15,10 @@ TaskManagerLibrary is a C# WinForms UserControl that starts long-running tasks a
 
 Open `TaskManagerLibrary.sln` in Visual Studio 2017 or later (solution format 12.00 / Visual Studio 15, targeting .NET Framework 4.7.1). Run the `TaskManagerTest` project to host the control.
 
+## Requirements
+
+- Visual Studio 2017, .NET Framework 4.7.1
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `TaskManagerLibrary`. Assembly title/product `TaskManager` and `TaskManagerTest`, empty company, copyright 2018. Original Dave Robinson / VaderConsulting code (not a Windows Task Scheduler wrapper).
