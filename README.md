@@ -21,7 +21,7 @@ Open `TaskManagerLibrary.sln` in Visual Studio 2017 or later (solution format 12
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `TaskManagerLibrary`. Assembly title/product `TaskManager` and `TaskManagerTest`, empty company, copyright 2018. Original Dave Robinson / VaderConsulting code (not a Windows Task Scheduler wrapper).
+Working copy from my Historical Dev folder `TaskManagerLibrary`. Assembly title/product `TaskManager` and `TaskManagerTest`, empty company, copyright 2018. Original Dave Robinson / VaderConsulting code (not a Windows Task Scheduler wrapper).
 
 ## License
 
