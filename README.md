@@ -21,8 +21,8 @@ Open `TaskManagerLibrary.sln` in Visual Studio 2017 or later (solution format 12
 
 ## Attribution and provenance
 
-Working copy from my Historical Dev folder `TaskManagerLibrary`. Assembly title/product `TaskManager` and `TaskManagerTest`, empty company, copyright 2018. Original Dave Robinson / VaderConsulting code (not a Windows Task Scheduler wrapper).
+Working copy from my Historical Dev folder `TaskManagerLibrary`. Assembly title/product `TaskManager` and `TaskManagerTest`, empty company, copyright 2018. Original Dave Robinson / Vader Consulting code (not a Windows Task Scheduler wrapper).
 
 ## License
 
-MIT. Copyright (c) 2026 VaderConsulting, for Dave Robinson's code. See `LICENSE`.
+MIT. Copyright (c) 2026 Vader Consulting, for Dave Robinson's code. See `LICENSE`.
